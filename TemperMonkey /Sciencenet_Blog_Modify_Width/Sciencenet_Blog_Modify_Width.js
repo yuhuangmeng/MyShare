@@ -1,5 +1,5 @@
 // ==UserScript==
-// @name         Sciencenet-Blog modify width
+// @name         Sciencenet Blog Modify Width
 // @namespace    http://your-namespace-here/
 // @version      1
 // @description  Sciencenet-Blog modify width

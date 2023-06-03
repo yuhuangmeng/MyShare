@@ -1,5 +1,5 @@
 // ==UserScript==
-// @name         mmm
+// @name         Duration Time For Bilibili
 // @namespace    mmm
 // @version      0.1.1
 // @description  获取分P视频剩余时间, 修改自 https://greasyfork.org/zh-CN/scripts/453414-%E8%AE%A1%E7%AE%97b%E7%AB%99%E5%88%86p%E8%A7%86%E9%A2%91%E5%9C%A8%E8%87%AA%E5%B7%B1%E6%89%80%E7%9C%8Bp%E6%95%B0%E7%9A%84%E8%A7%86%E9%A2%91%E5%89%A9%E4%BD%99%E6%97%B6%E9%95%BF

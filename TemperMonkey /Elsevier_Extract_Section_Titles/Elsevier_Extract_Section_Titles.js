@@ -1,5 +1,5 @@
 // ==UserScript==
-// @name         Extract Section Titles
+// @name         Elsevier Extract Section Titles
 // @namespace    http://tampermonkey.net/
 // @supportURL   https://gitee.com/minions239/MyShare/blob/master/Elsevier%E4%B8%AD%E6%8F%90%E5%8F%96%E6%96%87%E7%AB%A0%E7%9B%AE%E5%BD%95/Extract_Section_Titles.js
 // @version      1.0
