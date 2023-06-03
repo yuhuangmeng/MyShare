@@ -1,10 +1,13 @@
 // ==UserScript==
 // @name         Sciencenet Blog Modify Width
-// @namespace    http://your-namespace-here/
-// @version      1
+// @namespace    mmm
+// @version      1.0.0
 // @description  Sciencenet-Blog modify width
+// @author       mmm
+// @homepageURL  https://github.com/yuhuangmeng/MyShare/tree/main/TemperMonkey%20
 // @match        https://blog.sciencenet.cn/*
 // @grant        none
+// @license MIT
 // ==/UserScript==
 
 (function() {
